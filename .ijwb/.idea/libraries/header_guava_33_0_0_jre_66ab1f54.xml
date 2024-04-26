@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="header_guava-33.0.0-jre_66ab1f54">
+    <CLASSES>
+      <root url="jar:///private/var/tmp/_bazel_maxim.kolmakov/165ca34aff3cf5730b496e3a6a4ab867/execroot/_main/bazel-out/darwin_arm64-fastbuild/bin/external/rules_jvm_external~6.0~maven~maven/com/google/guava/guava/33.0.0-jre/header_guava-33.0.0-jre.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

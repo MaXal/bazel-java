@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Runner_deploy-ijar_20029b03">
+    <CLASSES>
+      <root url="jar:///private/var/tmp/_bazel_maxim.kolmakov/165ca34aff3cf5730b496e3a6a4ab867/execroot/_main/bazel-out/darwin_arm64-fastbuild/bin/external/bazel_tools/tools/jdk/_ijar/TestRunner/rules_java~7.4.0~toolchains~remote_java_tools/java_tools/Runner_deploy-ijar.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
